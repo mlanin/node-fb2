@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FictionBook xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns="http://www.gribuser.ru/xml/fictionbook/2.0">
+    <description>
+        <title-info>
+        </title-info>
+
+        <document-info>
+            <program-used>FB Tools</program-used>
+            <version>1.0</version>
+            <history>
+            </history>
+        </document-info>
+    </description>
+    
+    <body>
+    </body>
+</FictionBook>
